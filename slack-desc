@@ -8,4 +8,4 @@ libiscsi: of use for simpler applications.
 libiscsi: The package includes handful of useful iSCSI utilities
 libiscsi: Libiscsi is a work in progress.
 libiscsi:
-libiscsi: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+libiscsi: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
